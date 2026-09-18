@@ -229,19 +229,19 @@ Building web applications. — HTML, CSS, JavaScript, React
 </table>
 <h2>GitHub Analytics</h2>
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=pj74ncoding&theme=github-dark&hide_border=true" alt="GitHub streak stats"/>
 </div>
 <h3>Activity Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pj74ncoding&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
 </div>
 <h3>Visitor Count</h3>
 <div align="center"> -->
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsernameHere&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=pj74ncoding&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
 </div>
 <div align="center">
-  <strong>"The best developers are those who never stop building, never stop learning, and never stop shipping."</strong>
+  <strong>"The best developers are those who never stop building, never stop learning, and never stop growing."</strong>
 </div>
 <div align="center">
-  <sub>Studied the <a href="https://itonlinelearning.com/course/coding-diploma/">Coding Diploma</a> at <a href="https://itonlinelearning.com">ITonlinelearning</a> BCS Tech10 Accredited</sub>
+  <sub>Studied the <a href="https://itonlinelearning.com/course/coding-diploma/">Coding Course</a> at <a href="https://itonlinelearning.com">ITonlinelearning</a></sub>
 </div>
