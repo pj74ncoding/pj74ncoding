@@ -101,11 +101,16 @@ Building web applications. — HTML, CSS, JavaScript, React
 <table>
   <tr>
     <td width="50%">
-      <h3>Portfolio Website</h3>
+      <h3>Vellum JS Portfolio</h3>
       <p>
-vellum
+Developed an interactive digital diary application using HTML, CSS and JavaScript.
+Implemented Local Storage, user entries, filtering, tagging and public/private functionality.
+Built interactive features including themes, sound controls, grid layouts and expandable entries.
+Designed the UI from a wireframe and independently completed coding, functionality, testing and debugging.
+Used browser-console testing and online research to identify and resolve technical issues.
+
       </p>
-      <b>Stack:</b> HTML · Tailwind CSS · SASS · JavaScript
+      <b>Stack:</b> HTML · CSS ·  · JavaScript
       <br/>
       <a href="https://github.com/pj74ncoding/vellum-js-portfolio">View Project →</a>
     </td>
