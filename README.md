@@ -64,7 +64,7 @@ Building web applications. — HTML, CSS, JavaScript, React
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="AWS, Azure, Git, GitHub, VSCode"/>
 </p>
-<h2>Full-Stack Skills</h2>
+<!-- <h2>Full-Stack Skills</h2>
 <div align="center">
       <table>
         <tr>
@@ -102,7 +102,7 @@ Building web applications. — HTML, CSS, JavaScript, React
           </td>
         </tr>
       </table>
-    </div>
+    </div> -->
 <h2>Featured Projects</h2>
     <table>
        <tr>
