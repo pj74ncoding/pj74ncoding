@@ -24,16 +24,13 @@ Building web applications from front to back — HTML, CSS, JavaScript, React
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>Full-Stack Developer</strong> with a passion for building clean, performant, and user-friendly web applications that solve real-world problems.</p>
+    <p>I am an aspiring <strong>Junior Developer</strong> with a passion for coding and being a lifelong learner .</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
-      <li>Back-End Development (Python, SQL, Node.js)</li>
       <li>Cloud Computing (AWS, Microsoft Azure)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
-      <li>Database Design & Management</li>
-      <li>Full-Stack Application Architecture</li>
       <li>DevOps & Deployment</li>
     </ul>
     <p>I enjoy turning ideas into working applications while continuously building my skills through real projects.</p>
