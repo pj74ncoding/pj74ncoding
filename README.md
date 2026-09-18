@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Peter Newman</h1>
-  <h3>Junior Web Developer &nbsp;•&nbsp;   Junior Front-End Developer &nbsp;•&nbsp; Junior Software Developer
+  <h3>Junior Web Developer &nbsp;•&nbsp;   Junior Front-End Developer &nbsp;•&nbsp; Junior Software Developer</h3>
 <p>
 Building web applications. — HTML, CSS, JavaScript, React
 </p>
