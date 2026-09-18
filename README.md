@@ -36,7 +36,7 @@ Building web applications. — HTML, CSS, JavaScript, React
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="Image Address Here" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+      <img src="https://www.linkedin.com/in/peter-newman-2640b7238/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJVPtWX%2BgS2%2BakHmmELAxKg%3D%3D" alt="Profile photo" width="200" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
