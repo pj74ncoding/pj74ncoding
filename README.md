@@ -40,7 +40,7 @@ Building web applications. — HTML, CSS, JavaScript, React
     </td>
   </tr>
 </table>
-<h2>Full-Stack Technology Stack</h2>
+<h2>Technology Stack</h2>
 <h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -103,11 +103,11 @@ Building web applications. — HTML, CSS, JavaScript, React
     <td width="50%">
       <h3>Portfolio Website</h3>
       <p>
-      A responsive personal portfolio website showcasing skills, projects, and experience — built at Level 2 of the diploma using HTML, Tailwind CSS, SASS, and JavaScript.
+vellum
       </p>
       <b>Stack:</b> HTML · Tailwind CSS · SASS · JavaScript
       <br/>
-      <a href="#">View Project →</a>
+      <a href="https://github.com/pj74ncoding/vellum-js-portfolio">View Project →</a>
     </td>
     <td width="50%">
       <h3>React.js Web Application</h3>
