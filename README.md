@@ -4,7 +4,7 @@
 <p>
 Building web applications. — HTML, CSS, JavaScript, React
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junoir+Web+Developer;Junior+Front-End+Developer;Junior+Software+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
 </div>
 <div align="center">
 <a href="#">
