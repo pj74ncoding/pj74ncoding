@@ -80,6 +80,7 @@ Building web applications. — HTML, CSS, JavaScript, React
  
       </ul>
     </td>
+    </tr>
     <td>
       <ul>
         <li>GitHub & Version Control</li>
