@@ -114,6 +114,8 @@ Used browser-console testing and online research to identify and resolve technic
       <br/>
       <a href="https://github.com/pj74ncoding/vellum-js-portfolio">View Project →</a>
     </td>
+    </tr>
+    <tr>
     <td width="50%">
       <h3>JavaScript Calculator</h3>
       <p>
