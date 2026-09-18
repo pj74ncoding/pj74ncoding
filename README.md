@@ -126,13 +126,18 @@ Used browser-console testing and online research to identify and resolve technic
   </tr>
   <tr>
     <td>
-      <h3>JavaScript Browser Game</h3>
+      <h3>E-Commerce Website</h3>
       <p>
-      A 2D browser game using the Canvas API — featuring character control, animation, collision detection, sound, and interactive objects.
+Developed a responsive clothing e-commerce website homepage using HTML, CSS, JavaScript and React from an initial wireframe.
+Built key UI components including navigation, hero section, featured products, product carousel, categories and footer.
+Implemented responsive horizontal product carousel functionality, adapting scrolling behaviour across different screen sizes.
+Added CSS hover effects and animations, including interactive social-media icon rotation effects.
+Independently completed coding, responsive testing, debugging and problem-solving, using browser-console testing and online research to resolve technical issues.
+
       </p>
-      <b>Stack:</b> HTML · JavaScript · Canvas API
+      <b>Stack:</b> HTML · JavaScript · React  - CSS
       <br/>
-      <a href="#">Play Game →</a>
+      <a href="https://github.com/pj74ncoding/e-commerce-github ">View Project →</a>
     </td>
     <td>
       <h3>Python & SQL Data App</h3>
@@ -141,7 +146,7 @@ Used browser-console testing and online research to identify and resolve technic
       </p>
       <b>Stack:</b> Python · SQL · GitHub
       <br/>
-      <a href="#">View Project →</a>
+      <a href="">View Project →</a>
     </td>
   </tr>
 </table>
