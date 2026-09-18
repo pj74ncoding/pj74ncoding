@@ -10,10 +10,10 @@ Building web applications. — HTML, CSS, JavaScript, React
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="www.linkedin.com/in/peter-newman-2640b7238">
+<a href="linkedinhere">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="allthingscoding@yahoo.com">
+<a href="emailhere">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="YourGitHubProfileHere">
