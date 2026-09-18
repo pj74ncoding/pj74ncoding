@@ -81,20 +81,15 @@ Building web applications. — HTML, CSS, JavaScript, React
       <ul>
         <li>HTML5 Semantics</li>
         <li>CSS3 & Tailwind</li>
-        <li>SASS / Preprocessors</li>
+    
         <li>JavaScript (ES6+)</li>
         <li>React.js & Hooks</li>
         <li>Responsive Design</li>
-        <li>Canvas API</li>
+ 
       </ul>
     </td>
     <td>
       <ul>
-        <li>Python Scripting</li>
-        <li>SQL & Databases</li>
-        <li>Command Line / CLI</li>
-        <li>REST Principles</li>
-        <li>Data-Driven Apps</li>
         <li>GitHub & Version Control</li>
         <li>Portfolio Deployment</li>
       </ul>
@@ -105,7 +100,6 @@ Building web applications. — HTML, CSS, JavaScript, React
         <li>Microsoft Azure</li>
         <li>Git Workflow</li>
         <li>VS Code</li>
-        <li>Netlify / Static Hosting</li>
         <li>GitHub Pages</li>
         <li>Cloud Security Basics</li>
       </ul>
