@@ -62,44 +62,43 @@ Building web applications. — HTML, CSS, JavaScript, React
 </p>
 <h2>Full-Stack Skills</h2>
 <div align="center">
-<table>
-  <tr>
-    <th align="center">Front-End</th>
-    <th align="center">Back-End & Data</th>
-    <th align="center">Cloud & Tooling</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>HTML5 Semantics</li>
-        <li>CSS3 & Tailwind</li>
-    
-        <li>JavaScript (ES6+)</li>
-        <li>React.js & Hooks</li>
-        <li>Responsive Design</li>
- 
-      </ul>
-    </td>
-    </tr>
-    <td>
-      <ul>
-        <li>GitHub & Version Control</li>
-        <li>Portfolio Deployment</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>AWS Fundamentals</li>
-        <li>Microsoft Azure</li>
-        <li>Git Workflow</li>
-        <li>VS Code</li>
-        <li>GitHub Pages</li>
-        <li>Cloud Security Basics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
+      <table>
+        <tr>
+          <th align="center">Front-End</th>
+          <th align="center">Back-End & Data</th>
+          <th align="center">Cloud & Tooling</th>
+        </tr>
+
+        <tr>
+          <td>
+            <ul>
+              <li>HTML5 Semantics</li>
+              <li>CSS3 & Tailwind</li>
+              <li>JavaScript (ES6+)</li>
+              <li>React.js & Hooks</li>
+              <li>Responsive Design</li>
+            </ul>
+          </td>
+
+          <td>
+            <ul>
+              <li>GitHub & Version Control</li>
+              <li>Portfolio Deployment</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li>AWS Fundamentals</li>
+              <li>Microsoft Azure</li>
+              <li>Git Workflow</li>
+              <li>VS Code</li>
+              <li>GitHub Pages</li>
+              <li>Cloud Security Basics</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
 <h2>Featured Projects</h2>
     <table>
        <tr>
