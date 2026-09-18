@@ -4,7 +4,7 @@
 <p>
 Building web applications. — HTML, CSS, JavaScript, React
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;Junior+Front-End+Developer;Junior+Software+Developer;AWS+Certified+Cloud-Practioner;Microsoft-Certified-Azure-Fundamentals" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;Junior+Front-End+Developer;Junior+Software+Developer;AWS+Certified+Cloud+Practioner;Microsoft+Certified+Azure+Fundamentals" alt="Typing animation" />
 </div>
 <div align="center">
 <a href="#">
