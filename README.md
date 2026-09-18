@@ -115,13 +115,18 @@ Used browser-console testing and online research to identify and resolve technic
       <a href="https://github.com/pj74ncoding/vellum-js-portfolio">View Project →</a>
     </td>
     <td width="50%">
-      <h3>React.js Web Application</h3>
+      <h3>JavaScript Calculator</h3>
       <p>
-      An interactive web app built with React.js, demonstrating component architecture, state management, and dynamic rendering.
+  Designed and developed a functional calculator application using HTML, CSS and JavaScript.
+Built the UI and implemented calculator functionality, including calculation displays, theme colours, font styling and date/time features.
+Used JavaScript to handle user input and numerical calculations, converting string values into numbers where required.
+Tested and debugged the application using the browser console, identifying and resolving calculation errors through troubleshooting and experimentation.
+Independently completed the design, coding, testing, debugging and GitHub deployment of the project.
+
       </p>
-      <b>Stack:</b> HTML · Tailwind CSS · JavaScript · React.js
+      <b>Stack:</b> HTML · CSS · JavaScript 
       <br/>
-      <a href="#">View Project →</a>
+      <a href="https://github.com/pj74ncoding/calculator-js">View Project →</a>
     </td>
   </tr>
   <tr>
@@ -140,11 +145,16 @@ Independently completed coding, responsive testing, debugging and problem-solvin
       <a href="https://github.com/pj74ncoding/e-commerce-github ">View Project →</a>
     </td>
     <td>
-      <h3>Python & SQL Data App</h3>
+      <h3>Responsive Gaming Web Application</h3>
       <p>
-      A data-driven back-end application using Python and SQL — structured queries, database management, and meaningful output.
+    Designed and developed a responsive retro gaming website homepage using HTML and CSS.
+Built responsive UI functionality for different screen sizes, including overflow and scrolling for smaller displays.
+Developed gaming features including a high-score leaderboard, game browsing options and embedded YouTube content.
+Implemented pie and bar chart visualisations and styling effects to enhance the user interface.
+Independently completed UI design, coding, testing and debugging, using browser-console testing and online research to resolve technical issues.
+
       </p>
-      <b>Stack:</b> Python · SQL · GitHub
+      <b>Stack:</b> HTML - CSS
       <br/>
       <a href="">View Project →</a>
     </td>
@@ -156,24 +166,14 @@ Independently completed coding, responsive testing, debugging and problem-solvin
     <td>
       <ul>
         <li>React.js — Advanced patterns & hooks</li>
-        <li>Python back-end development</li>
-        <li>SQL database design</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>GitHub — Branching strategies & CI/CD</li>
-        <li>AWS Cloud Practitioner certification</li>
-        <li>Microsoft Azure fundamentals</li>
       </ul>
     </td>
-    <td>
-      <ul>
-        <li>Full-stack project architecture</li>
-        <li>API design & integration</li>
-        <li>Deployment & cloud hosting</li>
-      </ul>
-    </td>
+  
   </tr>
 </table>
 <h2>GitHub Analytics</h2>
