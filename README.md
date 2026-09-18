@@ -141,7 +141,7 @@ Building web applications. — HTML, CSS, JavaScript, React
           </tr>
         </table>
       </div>
-    </div>
+
 <h2>Featured Projects</h2>
     <table>
        <tr>
