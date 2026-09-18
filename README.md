@@ -31,7 +31,6 @@ Building web applications. — HTML, CSS, JavaScript, React
       <li>Cloud Computing (AWS, Microsoft Azure)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
-      <li>DevOps & Deployment</li>
     </ul>
     <p>I enjoy turning ideas into working applications while continuously building my skills through real projects.</p>
     </td>
@@ -47,23 +46,14 @@ Building web applications. — HTML, CSS, JavaScript, React
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
 <h3>Front-End</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
   <img src="https://img.shields.io/badge/Responsive_Design-0F172A?style=for-the-badge" alt="Responsive Design"/>
 </p>
-<h3>Back-End & Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge" alt="Database Design"/>
-</p>
+
+
 <h3>Cloud & DevOps</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="AWS, Azure, Git, GitHub, VSCode"/>
