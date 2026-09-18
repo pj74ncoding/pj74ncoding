@@ -28,6 +28,8 @@ Building web applications. — HTML, CSS, JavaScript, React
     <h3>My primary interests include:</h3>
     <ul>
       <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
+      <li>Web Development (HTML, CSS, JavaScript, React.js)</li>
+      <li>SoftWare Development (HTML, CSS, JavaScript, React.js)</li>
       <li>Cloud Computing (AWS, Microsoft Azure)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
