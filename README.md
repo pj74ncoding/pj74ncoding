@@ -6,7 +6,7 @@ Building web applications. — HTML, CSS, JavaScript, React
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;Junior+Front-End+Developer;Junior+Software+Developer;AWS+Certified+Cloud+Practioner;Microsoft+Certified+Azure+Fundamentals" alt="Typing animation" />
 </div>
-<div align="center">
+<!-- <div align="center">
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
@@ -19,7 +19,7 @@ Building web applications. — HTML, CSS, JavaScript, React
 <a href="YourGitHubProfileHere">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-</div>
+</div> -->
 <h2>About Me</h2>
 <table>
   <tr>
