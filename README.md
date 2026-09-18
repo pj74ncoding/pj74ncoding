@@ -10,7 +10,7 @@ Building web applications. — HTML, CSS, JavaScript, React
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/peter-newman-2640b7238">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="emailhere">
