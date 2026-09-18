@@ -2,7 +2,7 @@
 <h1>Hi, I'm Peter Newman</h1>
   <h3>Junior Web Developer &nbsp;•&nbsp;   Junior Front-End Developer &nbsp;•&nbsp; Junior Software Developer
 <p>
-Building web applications from front to back — HTML, CSS, JavaScript, React
+Building web applications. — HTML, CSS, JavaScript, React
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
 </div>
