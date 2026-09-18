@@ -100,70 +100,113 @@ Building web applications. — HTML, CSS, JavaScript, React
 </table>
 </div>
 <h2>Featured Projects</h2>
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Vellum JS Portfolio</h3>
-      <p>
-Developed an interactive digital diary application using HTML, CSS and JavaScript.
-Implemented Local Storage, user entries, filtering, tagging and public/private functionality.
-Built interactive features including themes, sound controls, grid layouts and expandable entries.
-Designed the UI from a wireframe and independently completed coding, functionality, testing and debugging.
-Used browser-console testing and online research to identify and resolve technical issues.
-
-      </p>
-      <b>Stack:</b> HTML · CSS ·  · JavaScript
-      <br/>
-      <a href="https://github.com/pj74ncoding/vellum-js-portfolio">View Project →</a>
-    </td>
-    </tr>
-    <tr>
-    <td width="50%">
-      <h3>JavaScript Calculator</h3>
-      <p>
-  Designed and developed a functional calculator application using HTML, CSS and JavaScript.
-Built the UI and implemented calculator functionality, including calculation displays, theme colours, font styling and date/time features.
-Used JavaScript to handle user input and numerical calculations, converting string values into numbers where required.
-Tested and debugged the application using the browser console, identifying and resolving calculation errors through troubleshooting and experimentation.
-Independently completed the design, coding, testing, debugging and GitHub deployment of the project.
-
-      </p>
-      <b>Stack:</b> HTML · CSS · JavaScript 
-      <br/>
-      <a href="https://github.com/pj74ncoding/calculator-js">View Project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>E-Commerce Website</h3>
-      <p>
-Developed a responsive clothing e-commerce website homepage using HTML, CSS, JavaScript and React from an initial wireframe.
-Built key UI components including navigation, hero section, featured products, product carousel, categories and footer.
-Implemented responsive horizontal product carousel functionality, adapting scrolling behaviour across different screen sizes.
-Added CSS hover effects and animations, including interactive social-media icon rotation effects.
-Independently completed coding, responsive testing, debugging and problem-solving, using browser-console testing and online research to resolve technical issues.
-
-      </p>
-      <b>Stack:</b> HTML · JavaScript · React  - CSS
-      <br/>
-      <a href="https://github.com/pj74ncoding/e-commerce-github ">View Project →</a>
-    </td>
-    <td>
-      <h3>Responsive Gaming Web Application</h3>
-      <p>
-    Designed and developed a responsive retro gaming website homepage using HTML and CSS.
-Built responsive UI functionality for different screen sizes, including overflow and scrolling for smaller displays.
-Developed gaming features including a high-score leaderboard, game browsing options and embedded YouTube content.
-Implemented pie and bar chart visualisations and styling effects to enhance the user interface.
-Independently completed UI design, coding, testing and debugging, using browser-console testing and online research to resolve technical issues.
-
-      </p>
-      <b>Stack:</b> HTML - CSS
-      <br/>
-      <a href="">View Project →</a>
-    </td>
-  </tr>
-</table>
+    <table>
+       <tr>
+        <td width="50%">
+          <h3>My React Media App</h3>
+          <p>
+            Developed an interative Movie an Tv series application using HTML, CSS
+            JavaScript and React. Implemented filtering, Built interactive features
+            including themes, sound controls, grid layouts and expandable
+            entries. Designed the UI from various online applications and independently
+            completed coding, functionality, testing and debugging. Used
+            browser-console testing and online research to identify and resolve
+            technical issues.
+          </p>
+          <b>Stack:</b> HTML · CSS ·  JavaScript · React
+          <br />
+          <a href="https://github.com/pj74ncoding/vellum-js-portfolio"
+            >View Project →</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3>Vellum JS Portfolio</h3>
+          <p>
+            Developed an interactive digital diary application using HTML, CSS
+            and JavaScript. Implemented Local Storage, user entries, filtering,
+            tagging and public/private functionality. Built interactive features
+            including themes, sound controls, grid layouts and expandable
+            entries. Designed the UI from a wireframe and independently
+            completed coding, functionality, testing and debugging. Used
+            browser-console testing and online research to identify and resolve
+            technical issues.
+          </p>
+          <b>Stack:</b> HTML · CSS ·  JavaScript
+          <br />
+          <a href="https://github.com/pj74ncoding/vellum-js-portfolio"
+            >View Project →</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td width="50%">
+          <h3>JavaScript Calculator</h3>
+          <p>
+            Designed and developed a functional calculator application using
+            HTML, CSS and JavaScript. Built the UI and implemented calculator
+            functionality, including calculation displays, theme colours, font
+            styling and date/time features. Used JavaScript to handle user input
+            and numerical calculations, converting string values into numbers
+            where required. Tested and debugged the application using the
+            browser console, identifying and resolving calculation errors
+            through troubleshooting and experimentation. Independently completed
+            the design, coding, testing, debugging and GitHub deployment of the
+            project.
+          </p>
+          <b>Stack:</b> HTML · CSS · JavaScript
+          <br />
+          <a href="https://github.com/pj74ncoding/calculator-js"
+            >View Project →</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>E-Commerce Website</h3>
+          <p>
+            Developed a responsive clothing e-commerce website homepage using
+            HTML, CSS, JavaScript and React from an initial wireframe. Built key
+            UI components including navigation, hero section, featured products,
+            product carousel, categories and footer. Implemented responsive
+            horizontal product carousel functionality, adapting scrolling
+            behaviour across different screen sizes. Added CSS hover effects and
+            animations, including interactive social-media icon rotation
+            effects. Independently completed coding, responsive testing,
+            debugging and problem-solving, using browser-console testing and
+            online research to resolve technical issues.
+          </p>
+          <b>Stack:</b> HTML · JavaScript · React - CSS
+          <br />
+          <a href="https://github.com/pj74ncoding/e-commerce-github "
+            >View Project →</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <h3>Responsive Gaming Web Application</h3>
+          <p>
+            Designed and developed a responsive retro gaming website homepage
+            using HTML and CSS. Built responsive UI functionality for different
+            screen sizes, including overflow and scrolling for smaller displays.
+            Developed gaming features including a high-score leaderboard, game
+            browsing options and embedded YouTube content. Implemented pie and
+            bar chart visualisations and styling effects to enhance the user
+            interface. Independently completed UI design, coding, testing and
+            debugging, using browser-console testing and online research to
+            resolve technical issues.
+          </p>
+          <b>Stack:</b> HTML - CSS
+          <br />
+          <a
+            href="https://github.com/pj74ncoding/web-application-ui-responsiveness"
+            >View Project →</a
+          >
+        </td>
+      </tr>
+    </table>
 <h2>Currently Learning</h2>
 <table>
   <tr>
