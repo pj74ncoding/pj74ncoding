@@ -42,7 +42,8 @@ Building web applications. — HTML, CSS, JavaScript, React
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEUhe1iNWET9g/profile-displayphoto-scale_400_400/B4EaCGhaulH4Ag-/0/1788963305178?e=1791417600&v=beta&t=H6ctCgvIU2BQSCCCVs-FvHd_7yB87ABk7TyFUYCOyCw" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+     <!--
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEUhe1iNWET9g/profile-displayphoto-scale_400_400/B4EaCGhaulH4Ag-/0/1788963305178?e=1791417600&v=beta&t=H6ctCgvIU2BQSCCCVs-FvHd_7yB87ABk7TyFUYCOyCw" alt="Profile photo" width="200" style="border-radius: 50%;"/> -->
     </td>
   </tr>
 </table>
