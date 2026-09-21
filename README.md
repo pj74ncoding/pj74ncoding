@@ -73,7 +73,6 @@ Building web applications. — HTML, CSS, JavaScript, React
           <th align="center">Back-End & Data</th>
           <th align="center">Cloud & Tooling</th>
         </tr> -->
-
         <tr>
           <td>
             <ul>
@@ -84,7 +83,6 @@ Building web applications. — HTML, CSS, JavaScript, React
               <li>Responsive Design</li>
             </ul>
           </td>
-
           <td>
             <ul>
               <li>GitHub & Version Control</li>
