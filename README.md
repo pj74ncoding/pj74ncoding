@@ -239,7 +239,7 @@ Building web applications. — HTML, CSS, JavaScript, React
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pj74ncoding&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true" alt="GitHub activity graph"/>
 </div>
 <h3>Visitor Count</h3>
-<div align="center"> -->
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=pj74ncoding&style=for-the-badge&color=2ea043" alt="Profile visitor count"/>
 </div>
 <div align="center">
